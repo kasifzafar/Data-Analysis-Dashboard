@@ -38,7 +38,8 @@ The development of this dashboard followed these steps:
    - Documented the work in this README.
 
 ## Dashboard
-<img width="1427" height="822" alt="Rishabh Pant Test Cricket Statistics Dashboard" src="https://github.com/user-attachments/assets/f26c85a7-2160-4214-a750-62db8c266c98"/a>
+ <img width="1427" height="822" alt="Rishabh Pant Test Cricket Statistics Dashboard" src="https://github.com/user-attachments/assets/c451cef5-0ab6-4e0a-a00d-b524dbec0cfe" />
+
 
 ## Project Insight
 
