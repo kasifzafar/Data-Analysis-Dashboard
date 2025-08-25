@@ -38,18 +38,18 @@ The development of this dashboard followed these steps:
    - Documented the work in this README.
 
 ## Dashboard
-    <img width="1427" height="822" alt="Rishabh Pant Test Cricket Statistics Dashboard" src="https://github.com/user-attachments/assets/f26c85a7-2160-4214-a750-62db8c266c98"/a>
+<img width="1427" height="822" alt="Rishabh Pant Test Cricket Statistics Dashboard" src="https://github.com/user-attachments/assets/f26c85a7-2160-4214-a750-62db8c266c98"/a>
 
 ## Project Insight
 
 
-# Aggressive Batting Style
+Aggressive Batting Style
 Pant maintains one of the highest strike rates among Indian Test batsmen (above 70), showing his attacking approach even in red-ball cricket.
 
-# Consistency in Impact Innings
+Consistency in Impact Innings
 While not always consistent in every match, Pant often plays game-changing knocks that shift momentum, especially in 4th innings chases.
 
-# Yearly Trends
+Yearly Trends
 Rapid rise since debut (2018), with notable peak years in 2020–2021 (Australia & England tours).
 
 ## Final Conclusion
