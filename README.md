@@ -17,3 +17,24 @@ The dashboard provides cricket fans, analysts, and enthusiasts with interactive 
 # Dashboard Interaction 
 -<a href="https://github.com/kasifzafar/Data-Analysis-Dashboard/blob/main/Rishabh%20Pant%20Test%20Cricket%20Statistics%20Dashboard.png">View Dashboard</a>
 
+##  Process
+The development of this dashboard followed these steps:
+
+1. **Data Collection**  
+   - Gathered Rishabh Pant’s Test match statistics from **Cricmetric**  
+   - Exported the data into Excel/CSV format for processing.  
+
+2. **Dashboard Design**  
+   - Designed interactive charts (bar charts, line graphs, KPIs, and tables).  
+   - Applied filters/slicers for Run, Boundries, and year selection.  
+   - Focused on a clean and user-friendly interface.  
+
+3. **Testing & Validation**  
+   - Verified accuracy of statistics by cross-checking with ESPNcricinfo.  
+   - Ensured all visuals respond dynamically to filters.  
+
+4. **Deployment**  
+   - Saved the project as `.pbix`.  
+   - Documented the work in this README.  
+ 
+
